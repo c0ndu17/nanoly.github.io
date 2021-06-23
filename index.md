@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nanoly
 
 You can use the [editor on GitHub](https://github.com/c0ndu17/nanoly.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
